@@ -3,7 +3,7 @@ using std::cout; using std::endl; using std::ostream;
 #include<fstream>
 using std::ifstream;
 
-#include "class-07.h"
+#include "class.h"
 #include "wavefile.h"
 
 int main (){
