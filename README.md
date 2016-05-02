@@ -8,3 +8,5 @@ In octpch notation, each musical note is represented as a numbered pair, where t
 To map sound frequencies to this representation, a reference note is chosen. This reference note frequency mapping is that 4.9 (A in the 4th octave) is 440 Hz. The tuning mapping insures that each note in the next higher octave has a frequency that is twice the prior octave.
 
 A sample file in octpch notation that maps to "Mary Had A Little Lamb" is provided, in addition to a main that samples the audio signal into a file called my_wave.wav.
+
+"class.h" contains the class structure.
