@@ -1,7 +1,7 @@
 # digitalsound
 Translate simple music syntax into sampled sound wav files.
 
-Digital sound is based on sampling an audio signal at a high rate in a manner that the sampled signal mimics the analog signal. This program turns the octpch notation of musical notes into sampled sound.
+Digital sound is based on sampling an audio signal at a high rate in such a manner that the sampled signal mimics the analog signal. This program turns the octpch notation of musical notes into sampled sound.
 
 In octpch notation, each musical note is represented as a numbered pair, where the first number indicates the octave the note belongs to and the second number indicates the note within the octave (pitch). The 12 semitones within each octave are represented, and flat note equivalencies are ignored (example: 6.1 is 6th octave, 1st semitone).
 
