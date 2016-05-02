@@ -39,12 +39,7 @@ void split(string line, vector<string>&words, string good_chars){
 
 
 Melody::Melody(string notes_file_name, string wav_file_name, long a_beat) 
-: ofs_(wav_file_name, std::ios::binary), ifs_(notes_file_name), one_beat_(a_beat){
-    
-    
-	
-	
-}
+: ofs_(wav_file_name, std::ios::binary), ifs_(notes_file_name), one_beat_(a_beat){}
 
 
 void Melody::fill_Note_vector(){
