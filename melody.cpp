@@ -11,7 +11,7 @@ using std::stringstream;
 #include <algorithm>
 using std::transform;
 
-#include "wavefile.h"
+#include "class.h"
 
 
 //split function
